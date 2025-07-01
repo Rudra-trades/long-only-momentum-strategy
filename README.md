@@ -28,7 +28,3 @@ This project implements a 'momentum-based long-only strategy' in Python using da
 - `pandas`  
 - `matplotlib`  
 
----
-
-💬 Want to collaborate or have questions? Open an issue or connect with me!
-
